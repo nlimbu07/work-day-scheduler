@@ -3,6 +3,7 @@ var todayEl = document.querySelector('#currentDay');
 todayDate = moment().format('dddd, MMM Do YYYY');
 todayEl.textContent = todayDate;
 
+// the document ready event
 $(document).ready(function () {
   // get current number of hour
   var currentHour = moment().format('HH');
