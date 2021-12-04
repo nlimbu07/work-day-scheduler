@@ -2,7 +2,9 @@
 
 A simple calendar application that allows a user to save events for each hour of the day.
 
-![alt text](./assets/images/image.jpg)
+![alt text](./assets/images/image-1.jpg)
+
+### [Deployed Application](https://nlimbu07.github.io/work-day-scheduler/)
 
 ## User Story
 
